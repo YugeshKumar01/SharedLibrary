@@ -1,3 +1,3 @@
 def call(){
-  git clone 'https://github.com/YugeshKumar01/CICD-01.git'
+  git branch:'main' url: 'https://github.com/YugeshKumar01/CICD-01.git'
 }
